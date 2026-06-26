@@ -21,15 +21,14 @@ O objetivo foi analisar vendas, clientes, pedidos e operações para gerar insig
 ## 📂 Estrutura do projeto
 
 Olist-Ecommerce-Analysis/
-│
-│
+
 ├── database/
 │   └── olist.db
 │
 ├── images/
 │   ├── Dashboard_Olist_Ecommerce.png
-│   ├── Consulta SQL + resultado.png
-│   └── Estrutura do projeto.png
+│   ├── Consulta_SQL_resultado.png
+│   └── Estrutura_do_projeto.png
 │
 ├── powerbi/
 │   └── Olist_Ecommerce_Dashboard.pbix
