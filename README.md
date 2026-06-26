@@ -39,33 +39,36 @@ Olist-Ecommerce-Analysis/
 └── README.md
 ```
 
-## Dashboard Power BI
+## 📊 Dashboard Power BI
+
+O dashboard foi desenvolvido no Power BI com foco em análise de vendas, clientes e operações.
 
 ![Dashboard](images/Dashboard_Olist_Ecommerce.png)
 
+O arquivo `.pbix` pode ser disponibilizado mediante solicitação devido ao tamanho do arquivo.
+
 ---
 
-## Consulta SQL + Resultado
+## 🧮 Consulta SQL + Resultado
 
 ![SQL](images/Consulta_SQL_resultado.png)
 
 ---
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 ![Estrutura](images/Estrutura_do_projeto.png)
 
 # 🔎 Principais análises realizadas
 
-- Evolução das vendas
-- Quantidade de pedidos
+- Evolução do faturamento e vendas
+- Volume de pedidos
 - Perfil dos clientes
 - Produtos mais vendidos
 - Análise operacional dos pedidos
 - Indicadores de desempenho
 
 ---
-
 # 🎯 Objetivo
 
 Transformar dados brutos de e-commerce em informações estratégicas para apoiar tomada de decisão.
