@@ -1,37 +1,25 @@
+# 📊 Olist Ecommerce Analysis — Power BI
 
-# 🛒 Olist E-commerce Analysis
+## 📌 Sobre o projeto
 
-## 📌 Sobre o Projeto
+Projeto de análise de dados de e-commerce utilizando a base pública da Olist.
 
-Este projeto foi desenvolvido com o objetivo de analisar o desempenho comercial de um e-commerce utilizando **SQLite**, **SQL** e **Power BI**.
-
-Foram realizadas consultas SQL para explorar os dados e responder perguntas de negócio. Em seguida, os resultados foram apresentados em dashboards interativos desenvolvidos no Power BI, facilitando a visualização dos principais indicadores de desempenho.
-
----
-
-# 🎯 Objetivos
-
-* Analisar o faturamento da empresa.
-* Identificar as categorias com maior receita.
-* Avaliar o comportamento dos clientes.
-* Identificar clientes sem compras.
-* Criar segmentação de clientes.
-* Desenvolver dashboards para apoiar a tomada de decisão.
+O objetivo foi analisar vendas, clientes, pedidos e operações para gerar insights através de um dashboard interativo desenvolvido no Power BI.
 
 ---
 
-# 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas utilizadas
 
-* SQLite
-* SQL
-* Power BI
-* Visual Studio Code
+- Power BI
+- SQL
+- SQLite
+- Excel / CSV
+- GitHub
 
 ---
 
-# 📂 Estrutura do Projeto
+## 📂 Estrutura do projeto
 
-```text
 Olist-Ecommerce-Analysis/
 │
 │
@@ -52,90 +40,22 @@ Olist-Ecommerce-Analysis/
 │   └── 03_analises.sql
 │
 └── README.md
-```
+
+# 🔎 Principais análises realizadas
+
+- Evolução das vendas
+- Quantidade de pedidos
+- Perfil dos clientes
+- Produtos mais vendidos
+- Análise operacional dos pedidos
+- Indicadores de desempenho
 
 ---
 
-# 📊 Análises Desenvolvidas em SQL
+# 🎯 Objetivo
 
-### Análise Comercial
-
-* Faturamento total
-* Faturamento por categoria
-* Cliente com maior volume de compras
-* Ranking de clientes
-* Categorias mais rentáveis
-
-### Análise de Clientes
-
-* Clientes VIP
-* Clientes Regulares
-* Clientes sem compras
-
-### Análise Operacional
-
-* Indicadores de vendas
-* Consultas utilizando JOINs
-* Consolidação das informações comerciais
+Transformar dados brutos de e-commerce em informações estratégicas para apoiar tomada de decisão.
 
 ---
 
-# 📊 Dashboard Power BI
-
-O dashboard foi dividido em três páginas:
-
-### 💰 Vendas
-
-* Faturamento Total
-* Receita por Categoria
-* Evolução das Vendas
-* Indicadores Comerciais
-
-### 👥 Clientes
-
-* Clientes com Maior Faturamento
-* Segmentação de Clientes
-* Clientes VIP
-* Clientes sem Compras
-
-### 🚚 Operações
-
-* Indicadores Operacionais
-* Visão Geral dos Pedidos
-* Apoio à tomada de decisão
-
----
-
-# 💡 Principais Insights
-
-* A categoria Informática apresentou o maior faturamento.
-* Poucos clientes concentram grande parte da receita.
-* Existem clientes cadastrados que ainda não realizaram compras.
-* A segmentação permite direcionar estratégias de fidelização.
-
----
-
-# 📚 Conceitos SQL Aplicados
-
-* SELECT
-* INNER JOIN
-* LEFT JOIN
-* GROUP BY
-* ORDER BY
-* SUM()
-* CASE
-* LIMIT
-
----
-
-# 🚀 Próximos Passos
-
-Como evolução deste projeto, desenvolvi um segundo projeto utilizando a base **Sample Superstore**, integrando SQL, SQLite e Power BI para análises comerciais e operacionais mais completas.
-
----
-
-## 👩‍💻 Autora
-
-**Karen Cristina**
-
-Projeto desenvolvido para fins de estudo e construção de portfólio na área de Análise de Dados.
+Projeto desenvolvido para portfólio de análise de dados.
