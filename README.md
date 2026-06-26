@@ -41,6 +41,22 @@ Olist-Ecommerce-Analysis/
 │
 └── README.md
 
+## Dashboard Power BI
+
+![Dashboard Olist Ecommerce](imagens/Dashboard_Olist_Ecommerce.png)
+
+---
+
+## Consulta SQL + Resultado
+
+![Consulta SQL](imagens/Consulta%20SQL%20%2B%20resultado.png)
+
+---
+
+## Estrutura do Projeto
+
+![Estrutura do projeto](imagens/Estrutura%20do%20projeto.png)
+
 # 🔎 Principais análises realizadas
 
 - Evolução das vendas
