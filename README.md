@@ -59,6 +59,14 @@ O arquivo `.pbix` pode ser disponibilizado mediante solicitação devido ao tama
 
 ![Estrutura](images/Estrutura_do_projeto.png)
 
+
+## 💡 Principais insights
+
+- Identificação da evolução das vendas ao longo do período analisado.
+- Análise do comportamento dos clientes e volume de pedidos.
+- Avaliação dos produtos com maior participação nas vendas.
+- Monitoramento de indicadores operacionais relacionados aos pedidos.
+
 # 🔎 Principais análises realizadas
 
 - Evolução do faturamento e vendas
