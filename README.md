@@ -25,20 +25,17 @@ Olist-Ecommerce-Analysis/
 
 ├── database/
 │   └── olist.db
-
+│
 ├── images/
 │   ├── Dashboard_Olist_Ecommerce.png
 │   ├── Consulta_SQL_resultado.png
 │   └── Estrutura_do_projeto.png
-
-├── powerbi/
-│   └── Olist_Ecommerce_Dashboard.pbix
-
+│
 ├── sql/
 │   ├── 01_criar_tabelas.sql
 │   ├── 02_inserir_dados.sql
 │   └── 03_analises.sql
-
+│
 └── README.md
 ```
 
